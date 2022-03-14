@@ -1,4 +1,4 @@
-# Spurious normavitiy
+# Role of Human-AI Interaction in Selective Prediction
 
 This package contains a [Colaboratory notebook](https://colab.research.google.com/github/deepmind/HAI_selective_prediction/blob/main/HAI_selective_prediction.ipynb)
 that loads the data and produces figures and stats
