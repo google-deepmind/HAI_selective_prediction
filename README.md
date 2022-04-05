@@ -18,9 +18,6 @@ Role of Human-AI Interaction in Selective Prediction.
 In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence,
 February 2022.
 
-## License and Disclaimer
-This is not an officially supported Google product.
-
 Copyright 2021 DeepMind Technologies Limited.
 
 ## Code License
